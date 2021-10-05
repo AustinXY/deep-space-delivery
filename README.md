@@ -5,6 +5,14 @@ Life is tough for a Deep Space Delivery Man. Try to reach your destination as yo
 
 Start the game from the main menu scene.
 
+
+## Press Kit and Trailer
+[Press Kit](https://github.com/aakim-git/PDFs/blob/master/Press%20Kit.pdf)<br/>
+[Trailer](https://youtu.be/24c4bITD9aY)
+
+Our Press Kit and Trailer highlights exciting gameplay, and iconic moments, like different minigames and even starting the game and viewing the main menu.
+
+
 ## Gameplay explanation ##
 #### Basic controls:
 Player 1 moves with the WASD keys, and uses the F button for commands. <br/>
@@ -136,13 +144,6 @@ Some key findings are as follows<br/>
 ## Narrative Design
 The story is that these guys are lowly space delivery men. They are not paid well, and so have to do with this bumbling, disorganized ship. We try to instill this narrative throughout the game. For example, you can see that the popups in the minigame are from Windows XP, the oil barrels are behind doors, and the door can only be opened with the help of another person. We are hoping it implies that this is a poorly managed and cheap ship.
 
-
-
-## Press Kit and Trailer
-[Press Kit](https://github.com/aakim-git/PDFs/blob/master/Press%20Kit.pdf)<br/>
-[Trailer](https://youtu.be/24c4bITD9aY)
-
-Our Press Kit and Trailer highlights exciting gameplay, and iconic moments, like different minigames and even starting the game and viewing the main menu.
 
 
 ## Game Feel
